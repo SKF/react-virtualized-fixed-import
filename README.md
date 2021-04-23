@@ -5,7 +5,7 @@ To use it in your repo add the following resolution
 ```json
 {
     "resolutions": {
-        "react-virtualized": "git+https://git@github.com/remorses/react-virtualized-fixed-import.git#9.22.3""
+        "react-virtualized": "git+https://git@github.com/SKF/react-virtualized-fixed-import.git#9.22.3""
     }
 }
 ```
